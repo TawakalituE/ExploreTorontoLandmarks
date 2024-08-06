@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Explore Toronto</string>
+    <string name="map_content_description">Map showing the selected landmark</string>
+</resources>
